@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "87de0e7a",
+    "versionCode": "284",
+    "link": "https://gitee.com/xybsx/Magisk/blob/master/magiskmanager.apk",
+    "note": "https://gitee.com/xybsx/Magisk/blob/master/notes.md"
+  },
+  "magisk": {
+    "version": "a62bdc58",
+    "versionCode": "20409",
+    "link": "https://gitee.com/xybsx/Magisk/blob/master/magisk.zip",
+    "note": "https://gitee.com/xybsx/Magisk/blob/master/notes.md",
+    "md5": "1171eb8527ea17be0e0e05da74e02fa6"
+  },
+  "uninstaller": {
+    "link": "https://gitee.com/xybsx/Magisk/blob/master/uninstaller.zip"
+  },
+  "stub": {
+    "versionCode": "9",
+    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/canary/stub-release.apk"
+  }
+}
